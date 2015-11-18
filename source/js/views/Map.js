@@ -68,7 +68,7 @@ function Map(){
 
 // create an empty container
 		var alienContainer = new PIXI.Container();
-		alienContainer.position.x = 0;
+		alienContainer.position.x = 400;
 		alienContainer.position.y = 0;
 
 
