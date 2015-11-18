@@ -1,6 +1,8 @@
 # gm-man
 Klon Pacman'a używając framework'a Pixi.js - nauka framework'u i GIT'a na podstawie znanej gry
 
+Lukasz to dziala :D to dziala :D
+
 - plan
     - lista widokow gry
     - lista logiki/ funkcjonalnosci dla kazdego widoku
