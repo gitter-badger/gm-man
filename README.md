@@ -1,4 +1,6 @@
 # gm-man
+
+[![Join the chat at https://gitter.im/gm-playground/gm-man](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gm-playground/gm-man?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Klon Pacman'a używając framework'a Pixi.js - nauka framework'u i GIT'a na podstawie znanej gry
 
 Lukasz to dziala :D to dziala :D tralalalalalalla
