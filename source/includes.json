@@ -1,0 +1,31 @@
+{
+	"header" : [
+		"Header.js"
+	],
+	"css" : [
+		"style/css/bootstrap.css",
+		"style/spritesheet/gui.css"
+	],
+	"lib" : [
+		"lib/jquery-2.1.3.min.js"
+	],
+	"lib-min" : [
+        "lib/jquery-2.1.3.min.js"
+	],
+	"js" : [
+		"lib/pixi.js",
+		"lib/signals.js",
+        "lib/soyutils.js",
+
+		"templates/core.soy.js",
+
+		"views/View.js",
+
+		"App.js",
+		"Init.js"
+	],
+	"externs" : [
+		"lib/externs.js",
+		"lib/jquery-externs-1.9.js"
+	]
+}
