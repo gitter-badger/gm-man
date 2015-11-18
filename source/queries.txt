@@ -1,3 +1,4 @@
 LMG 151118
 Do czego jest includes.json?
 -----------------------------
+Dla kompilatora. Trzeba na ten czas przerobic index zeby czytal ten plik i generowal sam index i zamiast index wypelniac zmieniac tylko includes.json.
